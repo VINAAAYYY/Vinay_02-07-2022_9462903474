@@ -28,7 +28,7 @@ cd venv
 ~~~
 Clone this repository.
 ~~~
- $ git clone https://github.com/VINAAAYYY/frejun.git
+ $ git clone https://github.com/VINAAAYYY/Vinay_02-07-2022_9462903474
 ~~~
 Activate your virtual enviroment 
 ~~~
